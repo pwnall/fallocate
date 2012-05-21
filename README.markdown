@@ -1,7 +1,7 @@
 # fallocate
 
 Pure-Ruby FFI bindings to
-(posix_fallocate)[http://www.kernel.org/doc/man-pages/online/pages/man3/posix_fallocate.3.html]
+[posix_fallocate](http://www.kernel.org/doc/man-pages/online/pages/man3/posix_fallocate.3.html)
 
 ## Usage
 
