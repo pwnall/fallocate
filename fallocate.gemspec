@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "fallocate.gemspec",
     "lib/fallocate.rb",
     "test/helper.rb",
     "test/test_fallocate.rb"
