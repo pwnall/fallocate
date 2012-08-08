@@ -5,27 +5,29 @@
 
 Gem::Specification.new do |s|
   s.name = "fallocate"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Victor Costan"]
-  s.date = "2012-05-21"
+  s.date = "2012-08-08"
   s.description = "fallocate is a fast method for allocating real disk\n                       space for files"
   s.email = "victor@costan.us"
   s.extra_rdoc_files = [
     "LICENSE.txt",
-    "README.rdoc"
+    "README.markdown"
   ]
   s.files = [
     ".document",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
-    "README.rdoc",
+    "README.markdown",
     "Rakefile",
     "VERSION",
     "fallocate.gemspec",
     "lib/fallocate.rb",
+    "lib/fallocate/18.rb",
+    "lib/fallocate/19.rb",
     "test/helper.rb",
     "test/test_fallocate.rb"
   ]
