@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    ffi (1.0.11)
+    ffi (1.9.24)
     git (1.2.5)
     jeweler (1.8.3)
       bundler (~> 1.0)
